@@ -1,3 +1,5 @@
+A fun Simulation game where you can add people you know or literally anyone else into a grand game of survival!
+
 "I met a programmer from an exquisitely confusing land,
 Who said—“Two vast and trunkless legs of steel
 Stand in the matrix. . . . Near them, on the binary,
