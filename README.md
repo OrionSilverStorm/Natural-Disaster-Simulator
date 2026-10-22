@@ -1,6 +1,7 @@
 A fun Simulation game where you can add people you know or literally anyone else into a grand game of survival!
 
 **Example Gameplay:**
+
 ![Gameplay Footage](Gameplay.png)
 
 ![Gameplay Footage](Ending.png)
